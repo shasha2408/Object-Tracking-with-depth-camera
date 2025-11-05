@@ -1,4 +1,4 @@
-# Object Detection and Depth Measurement with YOLOv8 and RealSense Camera
+# Object Tracking and Depth Measurement with YOLOv8 and RealSense Camera
 
 This project performs real-time object detection using the YOLOv8 model combined with depth sensing from an Intel RealSense camera. It captures synchronized RGB and depth frames, detects objects with YOLOv8, estimates their distances using depth data, and saves detection images with bounding boxes and distance information.
 
